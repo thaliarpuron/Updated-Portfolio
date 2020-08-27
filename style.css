@@ -1,0 +1,48 @@
+.name {
+    margin-top: 10px;
+    color: salmon;
+    padding: 20px;
+}
+
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+.thaliajpg{
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+.nav-link {
+    color: salmon;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+.about-portfolio-contact {
+    background-color: salmon;
+    padding: 20px;
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px; 
+}
+
+.btn-primary {
+    background-color: salmon;
+    margin-top: 20px;
+}
+
+.portfolio-images{
+    background-size: cover;
+    background-position: center bottom;
+    height: 180px;
+    width: 300px;
+}
